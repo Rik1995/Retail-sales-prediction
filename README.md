@@ -1,3 +1,14 @@
-**Retail-Sales-Prediction**
+# RossmannSalesPrediction
 
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied. My work includes various plots and graphs , visualizations , feature engineering , ensemble techniques , different ML algorithms with their respective parameter tuning , analysis and trends . Predictions are of 6 weeks of daily sales for 1,115 stores located across Germany.
+## Built a Machine Learning Model to Predict Sales
+
+## Project Summary -
+Rossman Sales Prediction data is a data set that contains historical sales data for a retail store chain. The data includes information about the store, such as Competitiors Details, type, and holidays, as well as number of the customers and sales transactions, such as the date, time, and amount of each sale.
+
+To build a machine learning model on this data, we first gathered and clean the data, and handled the null values, then we performed indepth EDA with 15 visuals and we gathered many insights from our EDA. Then further on, we did data preprocessing.
+
+Then we split it into training and testing sets. Next, we choose a machine learning algorithm and use the training data to train the model. Finally, you we evaluated the model's performance on the testing data to see how well it is able to predict sales.
+
+There are many different machine learning algorithms that we used for this task, including linear regression, decision trees, and random forests. It is also possible to use more advanced techniques, such as deep learning, to build a model on Rossman Sales Prediction data.
+
+Overall, while building a machine learning model on Rossman Sales Prediction data we applied combination of data processing, machine learning techniques, and model evaluation skills. It was a challenging task, but with the right approach, we were able to create a model that can accurately predict sales for a retail store chain, and Random Forest Regression gave the best accuracy as compared to other 3 models that we trained.
